@@ -1,6 +1,6 @@
 # Axios
 
-SARAL is the eLearning platform of NavGurukul, which is available on website https://saral.navgurukul.org. I have created a CLI based app where users can access the content of saral using the terminal.
+SARAL is the eLearning platform of NavGurukul, which is available on website http://saral.navgurukul.org. I have created a CLI based app where users can access the content of saral using the terminal.
 
 Axios is a promise-based HTTP client that works both in the browser and in a node.js environment. It basically provides a single API for dealing with XMLHttpRequests and node's http interface.
 
